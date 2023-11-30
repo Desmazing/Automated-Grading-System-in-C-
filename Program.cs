@@ -34,11 +34,6 @@ Console.WriteLine($"Student\t\tGrade\n");
 
 foreach (string student in studentNames)
 {
-
-}
-
-foreach (string student in studentNames)
-{
     foreach (decimal studentScore in allScores)
     {
         if (studentScore >= 97){studentGrade = "A+";}
