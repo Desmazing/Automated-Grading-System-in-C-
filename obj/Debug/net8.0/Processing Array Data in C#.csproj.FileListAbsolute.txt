@@ -1,0 +1,14 @@
+C:\Users\desmo\Desktop\Projects\C#\Processing Array Data in C#\bin\Debug\net8.0\Processing Array Data in C#.exe
+C:\Users\desmo\Desktop\Projects\C#\Processing Array Data in C#\bin\Debug\net8.0\Processing Array Data in C#.deps.json
+C:\Users\desmo\Desktop\Projects\C#\Processing Array Data in C#\bin\Debug\net8.0\Processing Array Data in C#.runtimeconfig.json
+C:\Users\desmo\Desktop\Projects\C#\Processing Array Data in C#\bin\Debug\net8.0\Processing Array Data in C#.dll
+C:\Users\desmo\Desktop\Projects\C#\Processing Array Data in C#\bin\Debug\net8.0\Processing Array Data in C#.pdb
+C:\Users\desmo\Desktop\Projects\C#\Processing Array Data in C#\obj\Debug\net8.0\Processing Array Data in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desmo\Desktop\Projects\C#\Processing Array Data in C#\obj\Debug\net8.0\Processing Array Data in C#.AssemblyInfoInputs.cache
+C:\Users\desmo\Desktop\Projects\C#\Processing Array Data in C#\obj\Debug\net8.0\Processing Array Data in C#.AssemblyInfo.cs
+C:\Users\desmo\Desktop\Projects\C#\Processing Array Data in C#\obj\Debug\net8.0\Processing Array Data in C#.csproj.CoreCompileInputs.cache
+C:\Users\desmo\Desktop\Projects\C#\Processing Array Data in C#\obj\Debug\net8.0\Processing Array Data in C#.dll
+C:\Users\desmo\Desktop\Projects\C#\Processing Array Data in C#\obj\Debug\net8.0\refint\Processing Array Data in C#.dll
+C:\Users\desmo\Desktop\Projects\C#\Processing Array Data in C#\obj\Debug\net8.0\Processing Array Data in C#.pdb
+C:\Users\desmo\Desktop\Projects\C#\Processing Array Data in C#\obj\Debug\net8.0\Processing Array Data in C#.genruntimeconfig.cache
+C:\Users\desmo\Desktop\Projects\C#\Processing Array Data in C#\obj\Debug\net8.0\ref\Processing Array Data in C#.dll
